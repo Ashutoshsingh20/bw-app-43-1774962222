@@ -1,7 +1,7 @@
 {
   "name": "bw-app-43-1774962222",
   "version": "1.0.0",
-  "description": "Lunar Harbor monochrome ops dashboard",
+  "description": "Vapor Lattice monochrome ops dashboard",
   "type": "module",
   "scripts": {
     "start": "node server.js"
